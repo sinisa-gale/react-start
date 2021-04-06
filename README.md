@@ -1,1 +1,1 @@
-# react-start
+# Setup of environment for React
